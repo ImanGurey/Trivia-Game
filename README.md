@@ -11,6 +11,9 @@ Click Start to begin the trivia. You have 30 seconds to answer each question and
 
 Click on the following link to preview the completed assignment.
  https://imangurey.github.io/Trivia-Game/
+ 
+ This Project is also linked to my Responsive Portfolio.
+
 
 *Built With
 
