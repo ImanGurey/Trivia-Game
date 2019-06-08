@@ -13,8 +13,13 @@ Click on the following link to preview the completed assignment.
  https://imangurey.github.io/Trivia-Game/
 
 *Built With
+
 *HTML5
+
 *CSS3
+
 *Twitter-Bootstrap - Framework
+
 *JavaScript
+
 *jQuery - JavaScript Library
