@@ -14,10 +14,10 @@ $(document).ready(function () {
         "Has the same name as its capital?", "Was a member of the former Yugoslavia?", "Is a Communist country?"];
 
     var answer = ["Japan", "Norway", "Turkey", "United Kingdom", "Russia", "Djibouti", "Croatia", "North Korea",];
-    var firstChoice = ["Norway", "Japan", "Russia","United Kingdom",];
-    var secondChoice = ["Turkey", "Norway", "Djibouti","North Korea"];
-    var thirdChoice = ["Russia", "North Korea", "Turkey", "Croatia"];
-    var fourthChoice = ["Japan", "Croatia", "Norway", "Djibouti"];
+    var firstChoice = ["Japan", "Norway", "Turkey", "United Kingdom", "North Korea",];
+    var secondChoice = [ "Norway", "Russia", "Djibouti"];
+    var thirdChoice = [ "Turkey","United Kingdom","Russia" ];
+    var fourthChoice = [ "United Kingdom","Japan", "Croatia"];
     // Show & Hide Functions
     function showHolders() {
         $("#question-holder").show();
@@ -178,7 +178,7 @@ $(document).ready(function () {
         }
         else if (count === 4) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/images.jpg">');
+            $("#image-holder").html('<img src="assets/images/images.jpeg">');
         }
         else if (count === 5) {
             $("#image-holder").show();
@@ -190,7 +190,7 @@ $(document).ready(function () {
         }
         else if (count === 7) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/_66708477_66704752.jpg.">');
+            $("#image-holder").html('<img src="assets/images/imagescopy.jpeg.">');
         }
     }
 
