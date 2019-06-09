@@ -2,12 +2,11 @@
 
 In this assignment, we were required to create a Trivia game using JavaScript for the logic and jQuery to manipulate HTML.
 
-Getting Started Name That Country- Trivia
+Getting Started 
+
+Name That Country- Trivia
 
 In this assignment, we were required to create a Trivia game using JavaScript for the logic and jQuery to manipulate HTML.
-
-Getting Started
-Name That Country- Trivia
 
 Instructions:
 
