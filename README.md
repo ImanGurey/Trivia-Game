@@ -18,9 +18,6 @@ Click on the following link to preview the completed assignment
 https://imangurey.github.io/Trivia-Game/
 
 This Project is also linked to my Responsive Portfolio.
-
- 
- https://imangurey.github.io/Trivia-Game/
  
  This Project is also linked to my Responsive Portfolio.
 
