@@ -178,8 +178,9 @@ $(document).ready(function () {
         }
         else if (count === 4) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/images.jpeg">');
+            $("#image-holder").html('<img src="assets/images/moscow.jpg">');
         }
+    
         else if (count === 5) {
             $("#image-holder").show();
             $("#image-holder").html('<img src="assets/images/maxresdefault.jpg">');
@@ -190,7 +191,7 @@ $(document).ready(function () {
         }
         else if (count === 7) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/imagescopy.jpeg.">');
+            $("#image-holder").html('<img src="assets/images/images.jpeg">');
         }
     }
 
